@@ -32,6 +32,3 @@ var funkyFunction = `FUNKY`
 function theFunk() {
   var theFunk = funkyFunction
 }
-  
-
-
